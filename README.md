@@ -23,13 +23,14 @@ Avatar Suite does not require Twitch credentials from SAMMI. The extension commu
 
 ## Installation
 
-1. Download [`RearSilver Avatar Suite.sef`](RearSilver%20Avatar%20Suite.sef).
-2. Start RearSilver Avatar Suite.
-3. Open SAMMI Core.
-4. Choose **Bridge**, then **Install an Extension**.
-5. Select the downloaded `.sef` file.
-6. Open the **RearSilver Avatar Suite** tab in SAMMI Bridge and confirm that it reports **Connected and verified**.
-7. Accept the included example deck when SAMMI offers to install it.
+1. Download [`RearSilver Avatar Suite SAMMI.zip`](RearSilver%20Avatar%20Suite%20SAMMI.zip).
+2. Extract `RearSilver Avatar Suite.sef` from the ZIP file.
+3. Start RearSilver Avatar Suite.
+4. Open SAMMI Core.
+5. Choose **Bridge**, then **Install an Extension**.
+6. Select the extracted `.sef` file.
+7. Open the **RearSilver Avatar Suite** tab in SAMMI Bridge and confirm that it reports **Connected and verified**.
+8. Accept the included example deck when SAMMI offers to install it.
 
 Avatar Suite command selectors use the friendly preset, layer, group, and effect names from the currently active setup. They refresh automatically when Avatar Suite reports a catalogue change. A manual **Refresh Catalogue** command is also available.
 
